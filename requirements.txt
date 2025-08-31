@@ -1,0 +1,8 @@
+openai
+tqdm
+rich
+feedparser
+beautifulsoup4
+requests
+reportlab
+pandas
